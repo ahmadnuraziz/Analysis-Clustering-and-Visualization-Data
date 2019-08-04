@@ -1,2 +1,7 @@
 # Analysis-Clustering-and-Visualization-Data
-Visualisasi dengan Tableau dan clustering dengan algoritma K-means
+Analisis dan pemodelan data
+
+## Tools:
+1. Python
+2. Tableau
+
